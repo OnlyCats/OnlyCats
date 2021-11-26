@@ -5,7 +5,7 @@ I'm a FiveM and Discord Developer that really likes cats.
 
 Join the [Discord laboratory](https://discord.gg/loljoshie) for updates, support, and special early testing! 🧪
 
-If you want to support me and my scripts feel free to buy me [coffee!](ko-fi.com/onlycats)☕
+If you want to support me and my scripts feel free to buy me [coffee!](https://ko-fi.com/onlycats)☕
 <!--
 **OnlyCats/OnlyCats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
